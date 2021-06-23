@@ -1,1 +1,3 @@
 # MyJavaPractice
+
+package com.JavaPractice;
