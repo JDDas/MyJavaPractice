@@ -3,7 +3,7 @@ General
 
 package com.JavaPractice;
 
-ublic class Main {
+public class Main {
 
     public static void main(String[] args) {
 
